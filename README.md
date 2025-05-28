@@ -1,8 +1,8 @@
 # Hi, I'm Preston Beachum 
 I'm a Software Engineering student at UNCW with a passion for backend systems, architecture, and scalable web applications. Currently building:
-- 🔧 A real-time task manager (Spring Boot + React)
-- 🧠 Medical research tools with Flask
-- 📈 Exploring full-stack dev, system design, and DevOps
+- A real-time task manager (Spring Boot + React)
+- Medical research tools with Flask
+- Exploring full-stack dev, system design, and DevOps
 
 Let's connect: [LinkedIn](https://www.linkedin.com/in/preston-beachum-a3b7b12ba)
 
