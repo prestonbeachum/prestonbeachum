@@ -14,10 +14,9 @@ I'm a Software Engineering student at UNCW driven by backend systems, scalable a
 -  **Medical Visualization Tools** – Flask microservices for scalable ingestion and visualization of medical research datasets.
 
 ###  Focus Areas
-- Full-stack web development  
+- Full-stack app development  
 - System architecture & microservices  
 - Software design patterns  
-- DevOps & automation
 
 ###  Let’s Connect
 [LinkedIn →](https://www.linkedin.com/in/preston-beachum-a3b7b12ba)
