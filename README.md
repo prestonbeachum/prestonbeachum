@@ -1,20 +1,19 @@
-# Hi, I'm Preston Beachum 
+# Hi, I'm Preston Beachum  
 
-I'm a Software Engineering student at UNCW driven by backend systems, scalable architecture, and building real-world solutions.
+Software Engineering student at UNCW with a focus on backend systems, scalable architecture, and building production-grade solutions.
 
-###  Current Roles
-- **System Engineer Intern @ Union County Public Schools**  
-  Improving device lifecycle efficiency and IT workflows with a software-first mindset — boosted service resolution speeds by ~60%.
+## Current Roles  
+- **Undergraduate Research Assistant – Software Architecture**  
+  Designing scalable visualization frameworks for the INSIGHTs Medical Visualization Project, enabling advanced infant feeding research.  
 
-###  What I'm Building
--  **Collaborative Task Manager** – Full-stack app with **Spring Boot** + **React (TypeScript)**, real-time updates via WebSocket, JWT auth, and Dockerized PostgreSQL.
+## What I'm Building  
+- **Collaborative Task Manager** – Full-stack application using **Spring Boot** + **React (TypeScript)**, real-time updates via WebSocket, JWT/OAuth2 authentication, and Dockerized PostgreSQL.
 
-###  Focus Areas
-- Full-stack app development  
-- System architecture & microservices  
-- Software design patterns  
+## Focus Areas  
+- Backend & full-stack application development  
+- Scalable architecture & system design  
+- Software design patterns & best practices  
 
-###  Let’s Connect
-[LinkedIn →](https://www.linkedin.com/in/preston-beachum-a3b7b12ba)
-
+## Let’s Connect  
+[LinkedIn](https://www.linkedin.com/in/preston-beachum-a3b7b12ba)
 
